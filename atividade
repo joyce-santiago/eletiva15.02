@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #F3C5C5;
+        }
+
+        .container {
+            width: 600px;
+            padding: 10px;
+            margin: auto;
+            margin-top: 100px;
+            background-color: #5f9ea0;
+            
+        }
+        .flex-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            padding: 5px;
+            background-color: #89c3c5;
+        }
+
+
+    </style>
+<title>Document</title>
+</head>
+<body>
+ <div class="flex-container" >
+    <h1>Header</h1>
+ </div> 
+
+<div class="container">
+    <h1>Minha classe de estilo</h1>
+</div>
+
+<div class="container">
+    <h1>JoyceeeeeeS</h1>
+</div>
+
+<div>
+    Texto 1
+    <div>
+        Bla Bla Bla
+    </div>
+</div>
+
+<div>
+    Texto 2
+</div>
+</body>
+</html> 
